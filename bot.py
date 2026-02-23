@@ -6,7 +6,7 @@ from telegram import Update
 from telegram.ext import Application, CommandHandler, ContextTypes
 
 # Token direct code mein daal diya
-TOKEN = "8658191578:AAE-X1uM6_djRokn_D7_COm6u4F9K0XA10"
+TOKEN = "8658191578:AAE-X1uW6_djRokn_D7_COm6u4F9K0XA10"
 
 logging.basicConfig(format="%(asctime)s - %(name)s - %(levelname)s - %(message)s", level=logging.INFO)
 
@@ -88,3 +88,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
